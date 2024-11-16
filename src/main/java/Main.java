@@ -8,11 +8,12 @@ public class Main {
 
     public static void main(String[] args) {
 
-        HomeWork2 homeWork2 = new HomeWork2();
 
-        String s = "abcd";
+        HomeWork3 homeWork3 = new HomeWork3();
 
-        System.out.println(homeWork2.mostFrequentChars(s));
+        homeWork3.triangleAlgorithm(2,3,4);
+
+
 
     }
 
