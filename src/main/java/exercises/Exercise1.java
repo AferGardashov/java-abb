@@ -1,6 +1,6 @@
 package exercises;
 
-public class HomeWork1 {
+public class Exercise1 {
 
     public String extractSubstring(String text, int start, int end) {
 
@@ -75,7 +75,7 @@ public class HomeWork1 {
             return false;
 
         for (int i = 0; i < str1.length(); i++) {
-            if(str1.charAt(i)!=str2.charAt(i))
+            if (str1.charAt(i) != str2.charAt(i))
                 return false;
         }
 

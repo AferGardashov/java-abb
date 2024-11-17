@@ -1,8 +1,8 @@
-package exercises;
+package homeworks;
 
 import java.util.*;
 
-public class HomeWork2 {
+public class Homework3 {
 
     //1. Write a Java program to get the index of all the characters of the alphabet
     public void charactersInAlphabet() {

@@ -1,8 +1,8 @@
-package exercises;
+package homeworks;
 
 import java.util.Scanner;
 
-public class HomeWork3 {
+public class HomeWork2 {
 
     Scanner scanner = new Scanner(System.in);
 

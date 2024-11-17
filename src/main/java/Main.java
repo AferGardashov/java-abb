@@ -1,17 +1,13 @@
-import exercises.HomeWork1;
-import exercises.HomeWork2;
-import exercises.HomeWork3;
-
-import java.util.Arrays;
+import homeworks.HomeWork2;
 
 public class Main {
 
     public static void main(String[] args) {
 
 
-        HomeWork3 homeWork3 = new HomeWork3();
+        HomeWork2 homeWork2 = new HomeWork2();
 
-        homeWork3.triangleAlgorithm(2,3,4);
+        homeWork2.triangleAlgorithm(2,3,4);
 
 
 
