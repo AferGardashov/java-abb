@@ -43,8 +43,7 @@ public class Main {
         //9.
         int[] intArray = {2,4,6,3,6,8,1,2,3,7};
         work.maxValueOfArray(intArray);
-        work.minValueOfArray(intArray)
-
+        work.minValueOfArray(intArray);
         System.out.println("------------------------------");
 
         //10.
