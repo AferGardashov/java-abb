@@ -6,7 +6,7 @@ import java.util.List;
 
 public class MovieLibraryWithLambdas {
 
-    private List<Movie> movieList = new ArrayList<>();
+    private final List<Movie> movieList = new ArrayList<>();
 
     public void addMovie(Movie movie) {
         movieList.add(movie);
