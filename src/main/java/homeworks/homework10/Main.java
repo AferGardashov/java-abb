@@ -1,5 +1,6 @@
 package homeworks.homework10;
 
+//Examples in main method to test the MovieLibraryWithLambdas are written by ChatGPT.
 public class Main {
     public static void main(String[] args) {
         // Create an instance of MovieLibraryWithLambdas
