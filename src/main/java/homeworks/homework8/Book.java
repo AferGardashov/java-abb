@@ -2,17 +2,21 @@ package homeworks.homework8;
 
 public class Book {
 
-    public String title;
+    private String title;
 
-    public String author;
+    private String author;
 
-    public String isbn;
+    private String isbn;
 
 
     public Book(String title, String author, String isbn) {
         this.title = title;
         this.author = author;
         this.isbn = isbn;
+    }
+
+    public String getIsbn(){
+        return this.isbn;
     }
 
     @Override

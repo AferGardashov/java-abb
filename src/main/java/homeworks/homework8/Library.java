@@ -39,7 +39,7 @@ public class Library {
         String borrowerName = request.borrowerName;
 
         for (Book a : list) {
-            if (a.isbn.equals(isbn)) {
+            if (a.getIsbn().equals(isbn)) {
                 list.remove(a);
                 set.add(borrowerName);
                 queue.poll();
